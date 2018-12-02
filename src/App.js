@@ -52,7 +52,7 @@ class App extends Component {
               <div className={`text left`}>
                 <h2 className="app-name">Popakorn</h2>
                 <p className="app-text">Es una aplicación de escritorio donde recibes contenido personalizado de todas las plataformas de contenido multimedia a la que estés suscrito (Netflix, HBO, etc) además de poder recibir recomendaciones aleatorias para no tener que pensar en qué ver.</p>
-                <p className="app-link">Saber más</p>
+                <a className="app-link" href="https://medium.com/@karlavidalchi/popakorn-6c77d43d0d">Saber más</a>
               </div>
               <Wheel className="wheel" src={projectsWheel} alt="logo" />
             </div>
