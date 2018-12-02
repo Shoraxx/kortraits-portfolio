@@ -77,6 +77,7 @@ align-items: center;
 
 .wheel {
   grid-area: wh;
+  background-color: #1e1e1e;
 }
 
 .app-name {
