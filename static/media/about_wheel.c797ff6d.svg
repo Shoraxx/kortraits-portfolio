@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="304px" height="306px" viewBox="0 0 304 306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Scroll</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HOME-Copy-3" transform="translate(-1136.000000, -359.000000)">
+            <g id="Scroll" transform="translate(1088.000000, 360.000000)">
+                <circle id="Oval" stroke="#FFFFFF" fill-rule="nonzero" cx="236" cy="260" r="12"></circle>
+                <circle id="Oval-Copy" stroke="#FFFFFF" fill-rule="nonzero" cx="236" cy="44" r="12"></circle>
+                <circle id="Oval" stroke="#FFFFFF" fill-rule="nonzero" cx="344" cy="152" r="152"></circle>
+                <circle id="Oval" fill="#FF884A" fill-rule="nonzero" cx="192" cy="152" r="16"></circle>
+                <text id="About-me" font-family="Raleway-Light, Raleway" font-size="24" font-weight="300" letter-spacing="0.2857142" fill="#FFFFFF">
+                    <tspan x="48.7302864" y="159">About me</tspan>
+                </text>
+                <text id="Projects" font-family="Raleway-ExtraLight, Raleway" font-size="16" font-weight="300" letter-spacing="-0.64" fill="#FFFFFF" fill-opacity="0.5">
+                    <tspan x="155.184" y="47">Projects</tspan>
+                </text>
+                <text id="Home" font-family="Raleway-ExtraLight, Raleway" font-size="16" font-weight="300" letter-spacing="-0.64" fill="#FFFFFF" fill-opacity="0.5">
+                    <tspan x="165.68" y="263">Home</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
