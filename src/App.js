@@ -51,8 +51,8 @@ class App extends Component {
             <div className='content'>
               <div className={`text left`}>
                 <h2 className="app-name">Popakorn</h2>
-                <p className="app-text">Es una aplicación de escritorio donde recibes contenido personalizado de todas las plataformas de contenido multimedia a la que estés suscrito (Netflix, HBO, etc) además de poder recibir recomendaciones aleatorias para no tener que pensar en qué ver.</p>
-                <a className="app-link" href="https://medium.com/@karlavidalchi/popakorn-6c77d43d0d">Saber más</a>
+                <p className="app-text">Popakorn it's a desktop app. Popakorn provides you with personalized content based on your tastes on all the video platforms to which you are subscribed (Netflix, HBO, etc)</p>
+                <a className="app-link" href="https://medium.com/@karlavidalchi/popakorn-6c77d43d0d">More information</a>
               </div>
               <Wheel className="wheel" src={projectsWheel} alt="logo" />
             </div>
@@ -66,8 +66,10 @@ class App extends Component {
             <div className='content'>
               <div className={`text left`}>
                 <h2 className="app-name">Karla Vidal Chi</h2>
-                <p className="app-text">Hello, I&apos;m Karla, a photographer focused on UX/UI Design (Sketch, Flinto, Invision, CSS, HTML, Lean UX, Design Thinking).</p>
-                <p className="app-text">I studied photography in a private school called TAI in Madrid, for 2 years. My specialty in photography is fashion photography. </p>
+                <p className="app-text">Hello, I&apos;m Karla, a digital designer focused on UX and UI design. I'm a aesthetic and design lover.</p>
+                <p className="app-text">I use Sketch, Flinto, InVision, Agile, Zeplin, SCRUM, Photoshop, HTML and CSS, but I'm always learning.</p>
+                <p className="app-text">I also studied fashion photography in TAI, a school in Madrid.</p>
+                <p className="app-text">If you think we can work together, you can contact me</p>
                 <a className="app-mail" href="mailto:kortraits@gmail.com">kortraits@gmail.com</a>
               </div>
               <Wheel className="wheel" src={aboutWheel} alt="logo" />
